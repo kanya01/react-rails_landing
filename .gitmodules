@@ -1,3 +1,0 @@
-[submodule "app/landing_page_app"]
-	path = app/landing_page_app
-	url = https://github.com/kanya01/react-rails_landing.git
